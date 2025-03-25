@@ -11,6 +11,6 @@ Updated to `v0.1.1-beta`
 - Other tweaks.
 
 ## Information
-
-- The `game/archive` folder stores old versions
-- The `game/linux` and `game/windows` holds the respective zip file for the latest version.
+The `game/` folder holds all releases
+- The `archive/` folder stores old versions
+- The `linux/` and `windows/` holds the respective zip file for the latest version.
