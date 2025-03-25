@@ -1,3 +1,3 @@
-# fun
+# CLI-Sudoku
 
-This is a collection of some of the fun side projects I have made
+A CLI Sudoku puzzle solver and maker.
