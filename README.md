@@ -1,6 +1,6 @@
 # CLI-Sudoku
 
-A CLI Sudoku puzzle solver and maker.
+A CLI Sudoku puzzle solver and game.
 
 
 
